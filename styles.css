@@ -11,6 +11,9 @@ body {
   justify-content: center;
   background-color: black;
 }
+body h1 {
+  color: whitesmoke;
+}
 
 .button {
   --white: #ffe7ff;
